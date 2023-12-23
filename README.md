@@ -5,14 +5,12 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 ```kotlin
-object **Guilherme** {
- val name = "Guilherme da Silva Neves"
- val acknowledgements = "Sistemas de Informação"
- 
- val primarySkillset = "Empreendedorismo"
- val languages = listOf("Blade", "PHP", "JavaScript", "Laravel", "React")
+class Guilherme {
+    public $name = "Guilherme da Silva Neves";
+    public $acknowledgements = "Sistemas de Informação";
 
-}
+    public $primarySkillset = "Empreendedorismo";
+    public $languages = ["Blade", "PHP", "JavaScript", "Laravel", "React"];
 ```
 <img align="right" width="200" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
